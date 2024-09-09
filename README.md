@@ -13,4 +13,4 @@ Bootcamp: [Formação Python Developer](https://web.dio.me/track/formacao-python
 Certificado: Rafael Lucas
 
 <img src="https://hermes.dio.me/certificates/cover/FQZ9R7JR.jpg" alt="Curso Python DIO" width="400" height="250">
->>>>>>> be07827bb8249cd0cecc69c0459a163e37a7e195
+
